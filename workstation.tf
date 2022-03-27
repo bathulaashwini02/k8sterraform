@@ -1,8 +1,8 @@
 # Configure the AWS Provider
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIA37VOISTADANJLP6Z"
-  secret_key = "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"
+  access_key = 
+  secret_key = "
 }
 
 # ec2 instence
